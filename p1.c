@@ -65,4 +65,4 @@ int main() {
 }
 
 
-gcc -fopenmp p1.c
+// gcc -fopenmp p1.c
