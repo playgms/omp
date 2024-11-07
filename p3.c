@@ -6,7 +6,7 @@
 int main() {
     int num, i;
     printf("Enter the number of steps: ");
-    scanf("%d", &num); // Use scanf instead of scanf_s
+    scanf("%d", &num);
 
     clock_t st, et; //clock_t for better precision
     st = clock();
