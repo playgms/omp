@@ -28,7 +28,5 @@ int main() {
 }
 
 
-gcc -fopenmp your_program.c -o your_program
 
-./your_program
 
