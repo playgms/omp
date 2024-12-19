@@ -30,4 +30,4 @@ int main(int argc, char* argv[]) {
 
 
 //mpicc -o cartesian_topology cartesian_topology.c
-//mpirun -np <put_the_value_of_SIZE> ./cartesian_topology
+//mpirun -np 4 ./cartesian_topology
